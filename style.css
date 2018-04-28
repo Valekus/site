@@ -1,3 +1,10 @@
 body{
-    background: red;
+    background: yellow;
+	text-align:center;
+	width:900px;
+}
+
+h1{
+	font-size: 20px;
+	font-style:inherit
 }
